@@ -1,1 +1,13 @@
-# llms-txt
+# Shahajad Islam Website
+
+> This is the official blog/website of Shahajad Islam. Here you can find all articles, tutorials, and updates.
+
+## Main Links
+
+- [Home](https://www.shahajadislam.com.bd/)
+- [About Us](https://www.shahajadislam.com.bd/p/about-us.html)
+- [Contact](https://www.shahajadislam.com.bd/p/contact.html)
+
+## Optional / Extra
+
+- [Privacy Policy](https://www.shahajadislam.com.bd/p/privacy-policy.html)
